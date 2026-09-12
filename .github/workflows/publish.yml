@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
         with:
           repository: Lifehouse-HK/style-guide-studio
-          ref: 14e50e53f1235549eb1c543eb7b45947922b1668
+          ref: 299c62f7b5bcde38ee7d0b5d414f8b3193fbf6de
           path: .engine
       - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
         with:
